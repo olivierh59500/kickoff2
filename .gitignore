@@ -1,0 +1,14 @@
+.cache/
+/previous/
+bin/
+.DS_Store
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
+android/app/libs/*.aar
+android/app/libs/*-sources.jar
+android/app/src/main/jniLibs/
+*.log
+__pycache__/
+/docs/
